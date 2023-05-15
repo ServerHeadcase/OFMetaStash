@@ -1,0 +1,16 @@
+{
+  "stash_url": "http://10.77.1.192:9999",
+  "ultima_scraper_config": "",
+  "content_dir": "",
+  "metadata_dir": "",
+  "mappings": {
+    "search": [
+      "/usr/src/app/.sites/OnlyFans/Profiles",
+      ".sites/OnlyFans/Profiles"
+    ],
+    "replace": [
+      "/onlyfans",
+      "/onlyfans"
+    ]
+  }
+}
